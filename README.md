@@ -11,6 +11,4 @@ Possible features include
 - Storage management
 - more
 
-I have no idea what I'm doing.
-
-*send help*
+I have no idea what I'm doing. I'll add more later.
